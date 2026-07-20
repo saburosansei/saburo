@@ -1,3 +1,11 @@
 </> JSON
 
-[]
+[
+  {
+    "name": "Streaming Community",
+    "url": "https://raw.githubusercontent.com/saburosansei/saburo/main/build/streamingunity.cs3",
+    "version": 1,
+    "description": "Movies, TV shows and Documentary provider",
+    "status": 1
+  }
+]
